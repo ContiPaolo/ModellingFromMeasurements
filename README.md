@@ -1,9 +1,9 @@
 # Modeling from Measurements Tutorial
 Tutorial for learning nonlinear dynamics from data of Roessler chaotic system.
 
-[Tutorial (trace)](https://colab.research.google.com/github/ContiPaolo/Multifidelity-Tutorial/blob/main/Tutorial_Multi_Fidelity_(trace).ipynb#scrollTo=P6aCPRjCM0ZZ)
+[Tutorial (trace)](https://colab.research.google.com/drive/1_-TuHB2Yv5BYGZA4xoOsyWmAjiJXQbC2#scrollTo=532cde3c8dab6856)
 
-[Tutorial (solution)](https://colab.research.google.com/github/ContiPaolo/Multifidelity-Tutorial/blob/main/Tutorial_Multi_Fidelity_(solution).ipynb#scrollTo=JwVPQmFEpVkc)
+[Tutorial (solution)](https://colab.research.google.com/drive/1siJGIF00sQopqkJJUr8KZ9fTtvpTEwTH#scrollTo=dde896f5f9197b7b)
 
 @ Computational Statistics, Polytechnic University of Milan, 2024.
 
