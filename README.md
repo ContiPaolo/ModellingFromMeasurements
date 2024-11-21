@@ -11,4 +11,4 @@ Tutorial for learning nonlinear dynamics from data of Roessler chaotic system.
 ## References: 
 
 - P Conti, J Kneifl, A Manzoni, A Frangi, J Fehr, SL Brunton, JN Kutz [VENI, VINDy, VICI: a variational reduced-order modeling framework with uncertainty quantification](https://arxiv.org/abs/2405.20905) arXiv preprint arXiv:2405.20905, (2024).
-- P Conti, M Guo, A Manzoni, JS Hesthaven [Discovering governing equations from data by sparse identification of nonlinear dynamical systems](https://www.pnas.org/doi/abs/10.1073/pnas.1517384113), Proceedings of the national academy of sciences 113 (15), 3932-3937 (2016).
+- SL Brunton, JL Proctor, JN Kutz [Discovering governing equations from data by sparse identification of nonlinear dynamical systems](https://www.pnas.org/doi/abs/10.1073/pnas.1517384113), Proceedings of the national academy of sciences 113 (15), 3932-3937 (2016).
